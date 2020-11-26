@@ -1,2 +1,2 @@
 # MusicStore
-Software developed for BD classes.
+Software developed for BD class.
