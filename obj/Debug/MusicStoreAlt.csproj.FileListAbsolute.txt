@@ -1,0 +1,24 @@
+D:\Projects\MusicStoreAlt\MusicStoreAlt\bin\Debug\MusicStoreAlt.exe.config
+D:\Projects\MusicStoreAlt\MusicStoreAlt\bin\Debug\MusicStoreAlt.exe
+D:\Projects\MusicStoreAlt\MusicStoreAlt\bin\Debug\MusicStoreAlt.pdb
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.csprojAssemblyReference.cache
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Form1.resources
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Properties.Resources.resources
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.csproj.GenerateResource.cache
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.csproj.CoreCompileInputs.cache
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.exe
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.pdb
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Form2.resources
+D:\Projects\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Form3.resources
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\bin\Debug\MusicStoreAlt.exe.config
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\bin\Debug\MusicStoreAlt.exe
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\bin\Debug\MusicStoreAlt.pdb
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.csprojAssemblyReference.cache
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Form1.resources
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Form2.resources
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Form3.resources
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.Properties.Resources.resources
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.csproj.GenerateResource.cache
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.csproj.CoreCompileInputs.cache
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.exe
+C:\Pedro Souto\Projetos\MusicStoreAlt\MusicStoreAlt\obj\Debug\MusicStoreAlt.pdb
